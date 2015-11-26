@@ -1,0 +1,28 @@
+name: Twisted Biscuit Co
+favicon: null
+layout_spectrum: 0.15517106815241277
+typography_spectrum: 0.33170595089904964
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7964899984654039
+  lightness: 0.04141860082745552
+  saturation: 0.6712253270670772
+  rhythmicContrast: 0.0666662692092359
+purpose: []
